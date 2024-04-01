@@ -18,9 +18,4 @@ function fibonacci(num) {
     return prevPrev;
 }
 
-// Test cases
-console.log(fibonacci(1)); // Output: 0
-console.log(fibonacci(5)); // Output: 3
-	
-}
 
